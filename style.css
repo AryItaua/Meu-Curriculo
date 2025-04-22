@@ -1,0 +1,19 @@
+body {
+    font-family: "Arial", sans-serif;
+    text-align: justify;
+    margin: 30px;
+    border: 5px ;
+    padding: 10px;
+}
+#header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#header img{
+    width: auto;
+    height: 150px;
+    border: 2px solid black;
+}
