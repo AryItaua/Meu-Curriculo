@@ -17,6 +17,13 @@ ul li a button{
 
 ul li{
     list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    backdrop-filter: blur(4px);
+    gap: 16px;
+    ;
 }
 
 #switch{
